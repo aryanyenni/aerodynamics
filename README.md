@@ -1,4 +1,4 @@
-# aerodynamics-simulations
+# Aerodynamics-Simulations
 This repository holds simulation-based aerodynamics projects using fluids and aerodynamics principles learned in 16.101x Intro to Aerodynamics.
 The projects utilize a multitude of skills and softwares, such as Onshape (CAD), SimScale (CFD), MATLAB (plotting), etc.
 
