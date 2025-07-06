@@ -17,6 +17,10 @@ While completely independent and self-directed, the project draws on core aerody
 - some cad files
 - some simulation file(s)
 
+## References
+- [UIUC Airfoil Database] - https://m-selig.ae.illinois.edu/ads/coord_database.html
+- [MIT OCW Documentation] - https://learning.edx.org/course/course-v1:MITx+16.101x_2+3T2018/home
+
 ## Tools
 - Onshape (CAD)
 - SimScale (CFD)
