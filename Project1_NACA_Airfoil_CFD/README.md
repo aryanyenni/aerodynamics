@@ -12,7 +12,7 @@ While completely independent and self-directed, the project draws on core aerody
 - document methodology, findings, and analysis in a lab-style report
 
 ## Files
-- 'report.pdf'
+- 'Aerodynamic Analysis of NACA Airfoils Using CFD and MATLAB.pdf' - the lab-style report
 - some matlab script
 - some cad files
 - some simulation file(s)
