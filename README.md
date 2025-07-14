@@ -15,6 +15,7 @@ Onshape + SimScale + MATLAB analysis of lift and drag over angles of attack
 ## References
 - [MIT OCW Documentation] https://learning.edx.org/course/course-v1:MITx+16.101x_2+3T2018/home
 - [YouTube Explanations] https://www.youtube.com/watch?v=QkaG-hDmRiQ&list=PLe2kb8k5FJpgLfhf18VphADpX9qvaby6k&index=1
+- All other project-specific references are at the end of all reports
 
 ## Author
 © 2025 Aryan Yenni. All rights reserved.
