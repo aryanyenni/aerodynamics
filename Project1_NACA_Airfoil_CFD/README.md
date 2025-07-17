@@ -13,8 +13,8 @@ While completely independent and self-directed, the project draws on core aerody
 
 ## Files
 - 'Aerodynamic Analysis of NACA Airfoils Using CFD and MATLAB.pdf' - the lab-style report
-- 'NACA 0012 - Plotting.mlx', 'NACA 2412 - Plotting.mlx', 'NACA 4412 - Plotting.mlx'
-- some cad files
+- 'NACA_0012_Plotting.m', 'NACA_2412_Plotting.m', 'NACA_4412_Plotting.m' - MATLAB airfoil coordinate plotting (.dat files included)
+- 'NACA 0012 v1.step', 'NACA 2412 v1.step', 'NACA 4412 v1.step' - extruded airfoils (.svg files included)
 - some simulation file(s)
 
 ## References
