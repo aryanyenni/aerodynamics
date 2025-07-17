@@ -23,7 +23,7 @@ While completely independent and self-directed, the project draws on core aerody
 - All other references found on last page of report
 
 ## Tools
-- Onshape (CAD)
+- Fusion (CAD)
 - SimScale (CFD)
 - MATLAB
 - GitHub (versions)
