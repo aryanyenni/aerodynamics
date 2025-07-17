@@ -10,7 +10,7 @@ The projects utilize a multitude of skills and softwares, such as CAD, computati
 
 ## Projects
 **[NACA Airfoil CFD Study](./Project1_NACA_Airfoil_CFD)**
-Onshape + SimScale + MATLAB analysis of lift and drag over angles of attack
+Fusion + SimScale + MATLAB analysis of lift and drag over angles of attack
 
 ## References
 - [MIT OCW Documentation] https://learning.edx.org/course/course-v1:MITx+16.101x_2+3T2018/home
