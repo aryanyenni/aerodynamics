@@ -3,9 +3,10 @@ This repository holds simulation-based aerodynamics projects using fluids and ae
 The projects utilize a multitude of skills and softwares, such as CAD, computational fluid dynamics, analysis with MATLAB, and other project-specific skills.
 
 ## Objectives
-- build simulations to understand airfoil behavior within fluids
-- observe different outputs depending on airfoil geometry and angles of attack
-- explore a variety of softwares that come together for simulation-based projects
+- build simulations to understand interactions between fluids and solids
+- observe different outputs depending on changes in geometry, simulation settings, inputs, etc.
+- explore a variety of softwares that work together in simulation-based projects
+- gain experience in plotting and analyzing using programming (MATLAB, Python)
 - learn enough about fluids and aerodynamics for technical interviews
 
 ## Projects
